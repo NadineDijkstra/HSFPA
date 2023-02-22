@@ -4,6 +4,7 @@ Accompanying code to 'A Hierarchical Structure For Perceptual Awareness (HSFPA)'
 'MasterWrapperMRI.m' goes through all steps in the analysis pipeline.
 
 The code requires the following dependencies:
+- HOSS model: https://github.com/smfleming/HOSS
 - SPM12: https://www.fil.ion.ucl.ac.uk/spm/software/download/
 - The MetaLab Core neuroimaging toolbox: https://github.com/metacoglab/MetaLabCore
 - Time Flesh' RSA toolbox: https://github.com/TimoFlesch/fmri_utils/tree/master/RSA
